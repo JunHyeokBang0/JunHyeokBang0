@@ -1,16 +1,26 @@
-## Hi there 👋
+# JunHyeok Bang
 
-<!--
-**JunHyeokBang0/JunHyeokBang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student interested in:
+- Computer Vision
+- Video Compression
+- Deep Learning Systems
 
-Here are some ideas to get you started:
+## Research Interests
+- MPEG AI Feature Coding
+- Feature Restoration
+- Object Detection / Tracking
+- Deep Learning Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### MPEG-AI-FCM-Research
+Research-oriented experiments on feature restoration methods for MPEG AI FCM anchor.
+
+### CIFAR100-Ensemble
+CNN + Transformer ensemble experiments for image classification.
+
+### JDE-Tracking
+Real-world multi-object tracking experiments using JDE.
+
+### DeepLearning-Study
+Deep learning and computer vision study materials and presentations.
