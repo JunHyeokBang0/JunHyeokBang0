@@ -11,7 +11,7 @@ Undergraduate student interested in:
 - Object Detection / Tracking
 - Deep Learning Optimization
 
-## Featured Projects
+## Research Experience
 
 ### MPEG-AI-FCM-Research(https://github.com/JunHyeokBang0/MPEG-AI-FCM-Research)
 Research experiments on feature restoration methods for MPEG AI FCM anchor.
