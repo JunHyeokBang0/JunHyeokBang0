@@ -14,7 +14,7 @@ Undergraduate student interested in:
 ## Featured Projects
 
 ### MPEG-AI-FCM-Research(https://github.com/JunHyeokBang0/MPEG-AI-FCM-Research)
-Research-oriented experiments on feature restoration methods for MPEG AI FCM anchor.
+Research experiments on feature restoration methods for MPEG AI FCM anchor.
 
 ### CIFAR100-Ensemble(https://github.com/JunHyeokBang0/CIFAR100-Ensemble)
 CNN + Transformer ensemble experiments for image classification.
