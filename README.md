@@ -8,7 +8,6 @@ Korea Aerospace University
 - Deep Learning
 - Generative Models
 - Efficient AI Systems
-- Video Understanding and Compression
 
 ## Research Experience
 
