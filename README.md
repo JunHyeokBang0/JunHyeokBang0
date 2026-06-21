@@ -1,5 +1,8 @@
 # JunHyeok Bang
 
+B.S. Student in Electronics Engineering  
+Korea Aerospace University
+
 ## Research Interests
 - Computer Vision
 - Deep Learning
