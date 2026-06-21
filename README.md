@@ -1,16 +1,11 @@
 # JunHyeok Bang
 
-Undergraduate student interested in:
-- Computer Vision
-- Deep Learning Systems
-- Video Compression
-- Generative Model
-
 ## Research Interests
-- Feature Restoration
-- Object Detection / Tracking
-- Deep Learning Optimization
-- Efficient Vision Systems
+- Computer Vision
+- Deep Learning
+- Generative Models
+- Efficient AI Systems
+- Video Understanding and Compression
 
 ## Research Experience
 
