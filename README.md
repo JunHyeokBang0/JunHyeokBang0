@@ -4,6 +4,7 @@ Undergraduate student interested in:
 - Computer Vision
 - Deep Learning Systems
 - Video Compression
+- Generative Model
 
 ## Research Interests
 - Feature Restoration
